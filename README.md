@@ -1,1 +1,1 @@
- Data-Structure-laboratory
+ Data-Structure
